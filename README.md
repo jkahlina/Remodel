@@ -1,4 +1,4 @@
-<h1><img src="https://raw.github.com/jkahlina/Remodel/master/Remodel/icon_256x256.png" width="256" height="256" />Remodel</h1>
+<h1><img src="https://raw.github.com/jkahlina/Remodel/master/Remodel/icon_256x256.png" width="72" height="72" valign="middle"/>Remodel</h1>
 
 Windows Snap for Mac OSX
 
